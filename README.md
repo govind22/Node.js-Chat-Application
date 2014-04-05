@@ -1,4 +1,4 @@
 nodejs-chat
 ===========
 
-Skeleton code for 2014 Hackers@Berkeley Node.js workshop
+Online Chat Application built using Node JS , MongoDB, SocketIO api
